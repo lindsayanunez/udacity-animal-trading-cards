@@ -3,6 +3,21 @@ body{
   -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
 -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
 box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
+border:0.1px solid #E0E0E0;
+font-family: arial;
+}
+
+h2{
+  text-align: center;
+}
+
+
+img{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+  border-radius: 4px
 }
 
 .info .funFact{
@@ -15,12 +30,19 @@ li span {
 
 ul{
   list-style: none;
+  padding-left: 0;
+
 }
 
 .card{
-  border:100px;
+  border:0.1px solid #E0E0E0;
+  padding: 10px;
+  margin: 10px;
+
 }
 
 .info{
-  border: 1px;
+  border:0.1px solid #E0E0E0;
+  padding: 10px;
+  background-color: #F5F5F5;
 }
