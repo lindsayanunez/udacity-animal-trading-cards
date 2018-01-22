@@ -1,1 +1,19 @@
-/* add your CSS here */
+.info .funFact{
+  font-style: italic;
+}
+
+li span {
+  font-weight: bold;
+}
+
+ul{
+  list-style: none;
+}
+
+.card{
+  border:100px;
+}
+
+.info{
+  border: 1px;
+}
